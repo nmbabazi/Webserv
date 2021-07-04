@@ -20,4 +20,5 @@ http://nginx.org/en/docs/beginners_guide.html
 ## What I learned
 > Understandign the communication between client and server \
 HTTP protocol \
+rfc \
 Server(nginx) config
